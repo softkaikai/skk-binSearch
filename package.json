@@ -1,0 +1,27 @@
+{
+  "name": "skk-binsearch",
+  "version": "1.0.0",
+  "description": "javascript binSearch",
+  "main": "binSearch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/softkaikai/skk-binSearch.git"
+  },
+  "keywords": [
+    "javascript",
+    "binSearch"
+  ],
+  "author": "softkaikai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/softkaikai/skk-binSearch/issues"
+  },
+  "homepage": "https://github.com/softkaikai/skk-binSearch#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
