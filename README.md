@@ -1,6 +1,6 @@
 # skk-binSearch
 [![Build Status](https://travis-ci.org/softkaikai/skk-binSearch.svg?branch=master)](https://travis-ci.org/softkaikai/skk-binSearch)
-[![npm version](https://badge.fury.io/js/skk-binsearch.svg)](https://badge.fury.io/js/skk-binsearch)
+[![npm version](https://badge.fury.io/js/skk-binsearch.svg)](https://badge.fury.io/js/skk-binsearch)<br />
 A small module named binSearch to find a specified data from a sorted Array.
 ## Example
 install
