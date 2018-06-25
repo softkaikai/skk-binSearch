@@ -62,6 +62,3 @@ typings/
 
 # webstorm project file
 .idea
-
-# package-lock file
-package-lock.json
